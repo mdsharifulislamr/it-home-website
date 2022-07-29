@@ -1,0 +1,12 @@
+.sf-md-60 {
+    margin-bottom: 130px !important;
+  }
+  .mp-control-sf {
+padding-left: 0;
+margin-right: 20px;
+}
+@media only screen and (max-width: 668px) {
+  .sm-d-d-none {
+   display: none;
+  }
+}
